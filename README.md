@@ -1,6 +1,6 @@
 ![OpenPol.org](https://github.com/openpol-org/OpenPol/blob/master/images/OpenPol.org128.png?raw=true "OpenPol.org")
 
-This is an Open source project aiming to provide tools for managing city wide police departments.
+This is an Open source project aiming to provide tools for managing citywide police departments.
 
 Currently this is a work in progress. Repos will go online as soon as preliminar versions of the software are ready for publishing.
 
