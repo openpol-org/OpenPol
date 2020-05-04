@@ -2,7 +2,7 @@
 
 This is an Open source project aiming to provide tools for managing city wide police departments.
 
-Currently this is a work in progress. As soon as preliminar versions of software are ready for publishing the repos will go online.
+Currently this is a work in progress. Repos will go online as soon as preliminar versions of the software are ready for publishing.
 
 If you belong to a law enforcement agency and want to join efforts please contact us at openpol@openpol.org
 
