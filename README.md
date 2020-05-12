@@ -6,7 +6,7 @@ Currently this is a work in progress. Repos will go online as soon as preliminar
 
 If you belong to a law enforcement agency and want to join efforts please contact us at openpol@openpol.org
 
-![OpenPol](https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJ1aHhGakwyRTdsa3BMdmtBMjlLQk5HbE9uVElwTHJoOSIsCiAgInVzZXJJZCI6ICJhbm9ueW1vdXNJZCIsCiAgImV2ZW50IjogIk9wZW5Qb2wgR2l0aHViIFJlcG8gVmlzaXRlZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJyZXBvIgogIH0KfQ== "OpenPol")
+![OpenPol](https://api.segment.io/v1/pixel/page?data=ewogICJ3cml0ZUtleSI6ICJ1aHhGakwyRTdsa3BMdmtBMjlLQk5HbE9uVElwTHJoOSIsCiAgInVzZXJJZCI6ICJhbm9ueW1vdXNJZCIsCiAgImV2ZW50IjogIkhvbWUiLAogICJwcm9wZXJ0aWVzIjogewogICAgImNhdGVnb3J5ICI6ICJIb21lIiwKCSJuYW1lICI6ICJIb21lIgogIH0KfQ== "OpenPol")
 
 
 
