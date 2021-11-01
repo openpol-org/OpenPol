@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WmGspBO0IfAX3O+W3qQeAwhzhprTVgPlFekvl27Tl0Q=",
+  "Source": "OpenPol.WebAPI",
+  "BasePath": "_content/OpenPol.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
