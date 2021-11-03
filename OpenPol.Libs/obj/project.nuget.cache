@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mnKBR0CgbJF31XD7bGbVz1yMCLpY1CU0JQglLE5spKkmjcl1ZhWYkYqa25bKJPGIlZt99lWY+ciDgFEwdEqDZA==",
+  "dgSpecHash": "ltIwiA1wRCwxjNWzdt3lq/ebRVKVGTjrKcHeRNzhVg5yDhyn6efKKDKdIgW4gkJ0Efs2aLqjlge9SU1cExYR0g==",
   "success": true,
-  "projectFilePath": "C:\\CODIGO\\GIT\\OpenPol.Libs\\OpenPol.Libs.csproj",
+  "projectFilePath": "C:\\CODIGO\\GIT\\OpenPol\\OpenPol.Libs\\OpenPol.Libs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

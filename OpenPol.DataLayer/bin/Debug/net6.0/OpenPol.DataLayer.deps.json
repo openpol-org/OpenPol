@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.0-rc.2.21480.5",
           "Microsoft.EntityFrameworkCore.Design": "6.0.0-rc.2.21480.5",
+          "Microsoft.EntityFrameworkCore.InMemory": "6.0.0-rc.2.21480.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.0-rc.2.21480.5",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.0-rc.2.21480.5"
         },
@@ -117,6 +118,17 @@
         },
         "runtime": {
           "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.48005"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.InMemory/6.0.0-rc.2.21480.5": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0-rc.2.21480.5"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.0.21.48005"
           }
@@ -547,6 +559,13 @@
       "sha512": "sha512-W0nCAd/7kYnaQObvVLWDf1/DvK/ew5qInyZ+PAjI7hbx7yRCoXznfNesgsO9TK0/N6PI4/PSHZOGc6oxn0BEpw==",
       "path": "microsoft.entityframeworkcore.design/6.0.0-rc.2.21480.5",
       "hashPath": "microsoft.entityframeworkcore.design.6.0.0-rc.2.21480.5.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/6.0.0-rc.2.21480.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CCepByOWaDbWWnVR2eU50lL/puYCxJB7gomfSGsiXg4SQap7sEwRuvZpO0mRwu90QSASJB2AT08ANYEe4Frciw==",
+      "path": "microsoft.entityframeworkcore.inmemory/6.0.0-rc.2.21480.5",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.6.0.0-rc.2.21480.5.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/6.0.0-rc.2.21480.5": {
       "type": "package",

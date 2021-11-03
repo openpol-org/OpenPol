@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CODIGO\\GIT\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj": {}
+    "C:\\CODIGO\\GIT\\OpenPol\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\CODIGO\\GIT\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj": {
+    "C:\\CODIGO\\GIT\\OpenPol\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CODIGO\\GIT\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj",
+        "projectUniqueName": "C:\\CODIGO\\GIT\\OpenPol\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj",
         "projectName": "OpenPol.DataLayer",
-        "projectPath": "C:\\CODIGO\\GIT\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj",
+        "projectPath": "C:\\CODIGO\\GIT\\OpenPol\\OpenPol.DataLayer\\OpenPol.DataLayer.csproj",
         "packagesPath": "C:\\Users\\Jovi\\.nuget\\packages\\",
-        "outputPath": "C:\\CODIGO\\GIT\\OpenPol.DataLayer\\obj\\",
+        "outputPath": "C:\\CODIGO\\GIT\\OpenPol\\OpenPol.DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,9 +56,13 @@
               "target": "Package",
               "version": "[6.0.0-rc.2.21480.5, )"
             },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.0-rc.2.21480.5, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.11, )"
+              "version": "[6.0.0-rc.2.21480.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

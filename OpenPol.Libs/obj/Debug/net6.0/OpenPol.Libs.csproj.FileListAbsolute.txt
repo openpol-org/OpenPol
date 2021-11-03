@@ -11,3 +11,15 @@ C:\CODIGO\GIT\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.csproj.CoreCompileInput
 C:\CODIGO\GIT\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.dll
 C:\CODIGO\GIT\OpenPol.Libs\obj\Debug\net6.0\ref\OpenPol.Libs.dll
 C:\CODIGO\GIT\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.pdb
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\bin\Debug\net6.0\OpenPol.Libs.deps.json
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\bin\Debug\net6.0\OpenPol.Libs.dll
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\bin\Debug\net6.0\ref\OpenPol.Libs.dll
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\bin\Debug\net6.0\OpenPol.Libs.pdb
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.GlobalUsings.g.cs
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.AssemblyInfoInputs.cache
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.AssemblyInfo.cs
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.csproj.CoreCompileInputs.cache
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.dll
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\ref\OpenPol.Libs.dll
+C:\CODIGO\GIT\OpenPol\OpenPol.Libs\obj\Debug\net6.0\OpenPol.Libs.pdb
